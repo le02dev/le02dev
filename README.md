@@ -2,8 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **Python**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
